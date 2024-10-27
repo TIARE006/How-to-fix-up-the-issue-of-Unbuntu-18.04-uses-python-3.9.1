@@ -21,6 +21,7 @@ Python 3.9.1
 
 7、 Add Python version to update-alternatives
 > sudo update-alternatives --install /usr/bin/python python /usr/local/bin/python3.9
+
 > sudo update-alternatives --install /usr/bin/python python /usr/bin/python3.6 2
 
 8、Select the default Python version and Select the number of the Python version you want to use and press Enter.
