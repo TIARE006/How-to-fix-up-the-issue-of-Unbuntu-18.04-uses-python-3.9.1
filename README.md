@@ -14,9 +14,11 @@
 
 6、Check version and location
 > python3.9 --version
+
 Python 3.9.1
 
 > which python3.9
+
 /usr/local/bin/python3.9
 
 7、 Add Python version to update-alternatives
